@@ -9,5 +9,6 @@ public class Aluno {
     private long id;
     private String nome;
     private int idade;
+    public Object get;
 
 }
